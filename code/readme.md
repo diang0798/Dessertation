@@ -1,1 +1,1 @@
-11
+In this project, we build a deep neural network for 3D brain MRI affine registration. Unlike conventional registration method, our network directly predicts transformation parameters between a moving image and a fixed image. Three methods are proposed to improve the performance of the network based on ground truth provided by a conventional method. Experiments prove that the performance of our network is close to a conventional method and the speed of affine registration on our network is 10 times faster than a conventional registration method.
